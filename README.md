@@ -1,8 +1,8 @@
 # SubAPI
 
-Egyszerű Node.js express API hívás példa
+Egyszerű Node.js express alkalmazás, API hívás példa
 
-## Parancssor megnyitása
+## Parancssor/Terminal megnyitása
 
 ## Repo klónozása
 ```
@@ -19,11 +19,11 @@ cd subapi
 npm install
 ```
 
-## szerver futtatása
+## Indítás
 ```
 node app.js
 ```
-Sikeres indításkor a következő jelenik meg a terminalban:
+Sikeres indításkor a következő jelenik meg a parancssorban:
 ```
 🚀 A szerver elindult: http://localhost:3000
 ```
